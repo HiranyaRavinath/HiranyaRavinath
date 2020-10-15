@@ -24,4 +24,3 @@
 ![Firebase](https://img.shields.io/badge/Firebase-007ACC?style=flat-square&logo=firebase)
 ![AzureCloud](https://img.shields.io/badge/Microsoft%20Azure-02569B?style=flat-square&logo=microsoft-azure)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-**HiranyaRavinath/HiranyaRavinath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
