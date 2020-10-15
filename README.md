@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/HiranyaRavinath)](https://twitter.com/HiranyaRavinath)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/hiranya-ravinath-soysa-b974771b6)](http://linkedin.com/in/hiranya-ravinath-soysa-b974771b6)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=http://linkedin.com/in/hiranya-ravinath-soysa-b974771b6/)](http://linkedin.com/in/hiranya-ravinath-soysa-b974771b6/)
 [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-222222?style=flat-square&logo=stack-overflow&logoColor=white&link=https://stackoverflow.com/users/14456431/hiranya-ravinath?tab=profile)](https://stackoverflow.com/users/14456431/hiranya-ravinath?tab=profile)
 
 ![HiranyaRavinath's github stats](https://github-readme-stats.vercel.app/api?username=HiranyaRavinath&show_icons=true&hide_border=true)
