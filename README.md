@@ -17,7 +17,7 @@
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/Laravel-black?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/Laravel-style=flat-square&logo=laravel)
 ![Wordpress](https://img.shields.io/badge/Wordpress-1572B6?style=flat-square&logo=wordpress)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
